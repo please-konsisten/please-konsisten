@@ -12,10 +12,7 @@ Exploring the Intersection of 💻 Web Dev & 🤖 Machine LearningHello! I'm a C
 ![](https://streak-stats.demolab.com/?user=please-konsisten&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=please-konsisten&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![Just Do It!!](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=please-konsisten&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🎯 Target:
+-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
